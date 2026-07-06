@@ -1,4 +1,3 @@
-    void main() {
-        IO.printlm("Hello World");
-       }
-
+void main() {
+    IO.printlm("Hello World");
+}
