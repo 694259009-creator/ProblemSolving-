@@ -9,7 +9,6 @@ void main() {
 
     IO.println(" Area of the triangle %.2f ".formatted(triangleArea) + " square units ");
 
-
     IO.print(" Enter the length of the rectangle ");
     double side = Double.parseDouble(IO.readln());
 
